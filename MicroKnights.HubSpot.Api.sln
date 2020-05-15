@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29905.134
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Vertical.HubSpot.Api", "Vertical.HubSpot.Api\Vertical.HubSpot.Api.csproj", "{6DA839FE-3705-4345-88F4-F50D2F147F1D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MicroKnights.HubSpot.Api", "MicroKnights.HubSpot.Api\MicroKnights.HubSpot.Api.csproj", "{6DA839FE-3705-4345-88F4-F50D2F147F1D}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Vertical.HubSpot.Test", "Vertical.HubSpot.Test\Vertical.HubSpot.Test.csproj", "{651286E9-6DB5-440B-BD86-F5E8BB7777CA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MicroKnights.HubSpot.Test", "MicroKnights.HubSpot.Test\MicroKnights.HubSpot.Test.csproj", "{651286E9-6DB5-440B-BD86-F5E8BB7777CA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

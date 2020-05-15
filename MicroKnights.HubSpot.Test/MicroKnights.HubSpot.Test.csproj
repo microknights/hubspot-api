@@ -16,6 +16,6 @@
     </PackageReference>
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Vertical.HubSpot.Api\Vertical.HubSpot.Api.csproj" />
+    <ProjectReference Include="..\MicroKnights.HubSpot.Api\MicroKnights.HubSpot.Api.csproj" />
   </ItemGroup>
 </Project>
